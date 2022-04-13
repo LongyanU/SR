@@ -1,5 +1,7 @@
 # SR
 
+CREWS is needed as we use its spongeABC function.
+
 Run figure1a.m,figure1b.m,figure1c.m, figure1d.m 
 
 Run figure2Stability.m, then run figure2PlotStability.m
