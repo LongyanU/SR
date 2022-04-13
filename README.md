@@ -11,3 +11,8 @@ Then run figure3a.m to get the I-SGFD seismogram.
 Then run figure3b.m to get the HEI-SGFD seismogram.
 Then run figure3c.m to get the comparison plots. 
 Then run figure3d.m to get the comparison plots. 
+
+
+Then run figure5aSaltTraScheme.m to get the I-SGFD scheme seismic records,
+and run figure5bsaltCoeffNewScheme.m to get the HEI-SGFD scheme seismic records.
+Then run figure5c.m and figure5d.m to get the comparsion of the seismic records.
